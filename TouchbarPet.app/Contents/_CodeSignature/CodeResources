@@ -10,39 +10,23 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		zv0jCLRLMXwCAx8p87Cx4MhjZB8=
+		9iS55dqC33vev1i1h6XMVfduXRs=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		hh67qeziMq6ji+z36dI6n3d90BI=
+		9i36SPFDug6dHLClWzxbKQnlHqo=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		ZsBaZYYcEDIKiVgFWjjKAiNbk9U=
+		tatMZBhLRZUxAk99RyLaq4eTTxc=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		yGgSvkFFHCCQVAxWrznhGSYnUKc=
+		Npfk28P3Vd/jfOV9OejKHLHVe0U=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
 		B+4tls00xyvYlvW7d3S82IxUOq0=
-		</data>
-		<key>Resources/catEating.atlasc/catEating.1@2x.png</key>
-		<data>
-		NWjgCalEuaDiZradlA5ClccDkqM=
-		</data>
-		<key>Resources/catEating.atlasc/catEating.plist</key>
-		<data>
-		yAHbno3UQckq+JJNNQIq8g7Uf0g=
-		</data>
-		<key>Resources/catLayDown.atlasc/catLayDown.1@2x.png</key>
-		<data>
-		9nftJ+JQI0/z9NdgzFPrCb53ONk=
-		</data>
-		<key>Resources/catLayDown.atlasc/catLayDown.plist</key>
-		<data>
-		VWeERtDFM1viNT75pG1D5FJJ5j8=
 		</data>
 		<key>Resources/catWalkNeutral.atlasc/catWalkNeutral.1@2x.png</key>
 		<data>
@@ -146,28 +130,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g7EA/Im3JI8heu6HWRG42UuA6mlS2jRIrfLk7/i8S1c=
+			IWbJfG6CsuYRBCKlrvh8TQ6+4uRQiwS7fCEO+m/BYnA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Z+BWrgKCEkUOs43mIm6tkbBxLWkNImj9HJl3Jv+zyk=
+			2WJhztt8XkEpHHYM5RUkJedUQSHLAm8IIyTuvJ0c60U=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7EY5smlFgmAJFmPnmdfT6kyyRhRchRzxmt763mtpC4I=
+			gwTKoPC2PPjvppItDNT8majNdrNa3brO4vF6IAr42PQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RAb7tXwL0H8ZPSpgCpxR2Ofm3OU1rhJc4eFqPuzg/5A=
+			GliS1JoxPUux7QELHKn/Lw335wdJ0jUZw33/ZeNwGMw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
@@ -175,34 +159,6 @@
 			<key>hash2</key>
 			<data>
 			qJ+6NSzRktyDHpvaEwu8GID3rI5yFZS/h3sDxQrBdqY=
-			</data>
-		</dict>
-		<key>Resources/catEating.atlasc/catEating.1@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pLXOyWNF0L+Uvp4ue0zDcU2MDQy0UNH/WZwXu6YOuUM=
-			</data>
-		</dict>
-		<key>Resources/catEating.atlasc/catEating.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Wc5pD9IGR81DtuiRGzFnUv5dBaHChmyXxTtOYV3Mz/0=
-			</data>
-		</dict>
-		<key>Resources/catLayDown.atlasc/catLayDown.1@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bif42eGpu+oXl1jH2RHBC+25TZY3EnkSg8irRtkjYa0=
-			</data>
-		</dict>
-		<key>Resources/catLayDown.atlasc/catLayDown.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ew6MEVv8ycymsgYD8SkgwcNTlnJfjEKwtfo2tqy2CnQ=
 			</data>
 		</dict>
 		<key>Resources/catWalkNeutral.atlasc/catWalkNeutral.1@2x.png</key>
