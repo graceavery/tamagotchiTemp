@@ -10,39 +10,23 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		W7bjDaBgrJwdXlTopGZWiB1pBS0=
+		TPstyphHuuoicjZJlxRyKkpFLBU=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		Z2ibLUoRiH5buSeumUvqXch++Ec=
+		iiV4TtM/A/pLlv2z22P7+xt/NxY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		ydp7Z37/Tqnr3ejMjUnQj2pTt4k=
+		ssN3xbC4b84x8oh6wuOsO7tc7w8=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		BtcRY6pVTNOyr9ky6L1OWvYwr20=
+		YaZDiGhndsa86BFXujx1/PZlfpM=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
 		B+4tls00xyvYlvW7d3S82IxUOq0=
-		</data>
-		<key>Resources/catWalkNeutral.atlasc/catWalkNeutral.1@2x.png</key>
-		<data>
-		olXb1aIYXvotYJqHRRqvwzqnYVc=
-		</data>
-		<key>Resources/catWalkNeutral.atlasc/catWalkNeutral.plist</key>
-		<data>
-		L83AjdxXSC0jMIdJPZNFKnGUMaQ=
-		</data>
-		<key>Resources/tailWag.atlasc/tailWag.1@2x.png</key>
-		<data>
-		xp8vEIM9VFwyLXwMp9EoxjeijiQ=
-		</data>
-		<key>Resources/tailWag.atlasc/tailWag.plist</key>
-		<data>
-		P7Q8+OjVUALPo+/ot0MFgyh7ShA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -130,28 +114,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mV9EC4/jNhQBJJ87V/TLYCSbs+s1ZN8uKSfmXgUAPcI=
+			hHe7sxkQqkLpGjcDp1w5H+wH+ILfm4DnTubmZAhJW98=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RuA2bhgZN9ZntuL211CkTbR06vKq96N2OD7MCsWCR+A=
+			E3L9vWMTYtyG1ZSt/cY7sDrt+HhMCzj/bErppnNnuSo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pPmo46sx4rhkCToZ4vTRm3EjdOkJJPNm7PBwOJxWq8s=
+			Ud3RsQlhSjXLBuitduygRhTTv2fnhqXJ4oP7p5srTcE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y/0CBMj2Ge9gD0UoGQKaPOIDdFNjRLB+HCkWHa+IZqY=
+			3OoW9STvD40yej1MLVaOOXkjOl/TewZkcyLz/ilfcQQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
@@ -159,34 +143,6 @@
 			<key>hash2</key>
 			<data>
 			qJ+6NSzRktyDHpvaEwu8GID3rI5yFZS/h3sDxQrBdqY=
-			</data>
-		</dict>
-		<key>Resources/catWalkNeutral.atlasc/catWalkNeutral.1@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uxQV0E7YYzKzTL0sE1xoZ3PsA+g0Fj3eltMQjcbr8wc=
-			</data>
-		</dict>
-		<key>Resources/catWalkNeutral.atlasc/catWalkNeutral.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eoYed1ToqK/FWgyt8qCDKzf1aOMFUMinhdYGwUx8dOo=
-			</data>
-		</dict>
-		<key>Resources/tailWag.atlasc/tailWag.1@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			H8GIhbt+cXJGL/DLBfhFNN9hiW08S5ggTHEYRz0Hgr4=
-			</data>
-		</dict>
-		<key>Resources/tailWag.atlasc/tailWag.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nseWlTWtRLGMKKw+r92sV8lOOE2vgbCO/x8jTM+lY8c=
 			</data>
 		</dict>
 	</dict>
