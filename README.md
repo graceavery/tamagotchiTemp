@@ -18,4 +18,4 @@ If you are unfamiliar with Github, here is an easier download link: https://grac
 
 ## Troubleshooting
 
-If you're having trouble because `"TouchbarPet" can not be opened because Apple can not look for malicious software in it.`, please read the [instructions](https://github.com/graceavery/tamagotchiTemp/issues/15) here before creating a new issue.
+If you're having trouble because `"TouchbarPet" can not be opened because Apple can not look for malicious software in it.`, please read the [instructions here](https://github.com/graceavery/tamagotchiTemp/issues/15) before creating a new issue.
