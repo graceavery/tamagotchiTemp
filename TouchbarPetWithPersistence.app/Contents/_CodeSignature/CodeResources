@@ -10,23 +10,31 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		UfHX+YukzQdTC1a4ii5ykIfwZCo=
+		F4aKBnJsOTqx4ZfaSJkF6TKUuaY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		gNvJrZbuHNqrMogTxjvSoRaRB4o=
+		awfCfNOxTMmr6760g6B7ns5JzGI=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		lihpikKdvZxQu8h1X6lJcbITy7M=
+		ScVYg0yjjFxX5+rvfjalSzMu+UE=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		5lCLVCSdom/N6fCFEpkkvBlmQvw=
+		0/WUzBHujdN6FEEZJ4StU5jk9hA=
+		</data>
+		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-oCM-yD-Ipd.nib</key>
+		<data>
+		9pSQkEZkNWU9t1zGIXzwM+I5zbs=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
 		B+4tls00xyvYlvW7d3S82IxUOq0=
+		</data>
+		<key>Resources/Base.lproj/Main.storyboardc/hfP-od-vTu-view-068-HW-Lpn.nib</key>
+		<data>
+		4LaNYGJO8SW7Kr1kf1KI18Pzchs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -114,28 +122,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r+nDSD8Nu5E4hpWcjd8Y3FQ21uILuOL8B+KoHctp0D4=
+			E7jhnxOXXCWMUx14d1ri/G3QxdvprPT+FhDNRgx0Drk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c2J5VODCE8fjyxD53uKq57CgdrZIgDAS4L5j7aCLkg4=
+			jPmGk+7UeEkVWvrhJdKo/LflAmWpzUGovKqK3o+3WNA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gKfg0N9DhTnEuzDcZAKVeXphy1I4EFOiRKKcDTPWR8A=
+			be0HsZWMQeNFAhqPOdJWlfFLqaqchVpMuXWUa589aQo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u21hkCD5kJVK2Po4x9Krej6cwNh6PppVqoLe7GeFIWQ=
+			IoyE0izAAk+QigPeouQMSVFv9TKLPKE5l1ftsutsHz8=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-oCM-yD-Ipd.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XMTH/cdgQP9nclLAOR5909TsduCbh45jPJpFVWrM/eQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
@@ -143,6 +158,13 @@
 			<key>hash2</key>
 			<data>
 			qJ+6NSzRktyDHpvaEwu8GID3rI5yFZS/h3sDxQrBdqY=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/hfP-od-vTu-view-068-HW-Lpn.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a6ekTJ+Eyvp9Y9dUd2IFXtReqL1TLczZPdIEfTmiVP4=
 			</data>
 		</dict>
 	</dict>
